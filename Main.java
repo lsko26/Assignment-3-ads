@@ -8,19 +8,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        Random random = new Random();
-//
-//        MyHashTable<StudentIdentifier, Student> m = new MyHashTable<>(1, 0.05);
-//
-//        for (int i = 0; i < 10220; i++) {
-//            StudentIdentifier key = new StudentIdentifier(i, studentType[random.nextInt(studentType.length)]);
-//
-//            Student student = new Student(firstNames[random.nextInt(firstNames.length)], lastNames[random.nextInt(lastNames.length)]);
-//
-//            m.put(key, student);
-//        }
-//
-//        m.search();
 
         BST<Integer, Integer> bst = new BST<>();
 
