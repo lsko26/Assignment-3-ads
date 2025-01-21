@@ -5,10 +5,10 @@ pragma solidity ^0.8.22;
 import {ERC20} from "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import {ERC20Permit} from "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 
-contract Aitu_SE2315_YussupovZhangir is ERC20, ERC20Permit {
+contract yeskendir_khasangaliev is ERC20, ERC20Permit {
     constructor()
-        ERC20("Aitu_SE2315_YussupovZhangir", "MTK")
-        ERC20Permit("Aitu_SE2315_YussupovZhangir") payable 
+        ERC20("yeskendir_khasangaliev", "MTK")
+        ERC20Permit("yeskendir_khasangaliev") payable 
     {
         _mint(msg.sender, 2000 * 10 ** decimals());
     }
