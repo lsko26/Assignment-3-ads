@@ -1,9 +1,9 @@
 # 3-Assaignment-BlockChain
-# khasangaliev_yeskenidr (ERC-20 Token)
+# yeskendir_khasangaliev (ERC-20 Token)
 
 ## Overview
 
-The `contract` is an ERC-20 standard token deployed on Ethereum or compatible testnets. This token is designed for educational purposes and includes functions for managing and displaying transaction data. The initial supply of the token is set to 2000 tokens.
+The `yeskendir_khasangaliev` is an ERC-20 standard token deployed on Ethereum or compatible testnets. This token is designed for educational purposes and includes functions for managing and displaying transaction data. The initial supply of the token is set to 2000 tokens.
 
 ## Usage
 
@@ -42,7 +42,7 @@ The `contract` is an ERC-20 standard token deployed on Ethereum or compatible te
 
 ## Project Structure
 
-- **`contract`**: Smart contract source code.
+- **`contract.sol`**: Smart contract source code.
 - **`README.md`**: This documentation file.
 - **`LICENSE`**: Open-source license file (MIT).
 
